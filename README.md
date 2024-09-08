@@ -52,14 +52,14 @@ This Python code detects shapes in images and videos.
 
 ![alt text](ImageResults/imageShapesResult.png)
 
-2. **Video Results**
+Github commits after deadline were from having trouble with showing images, just links to my drive here.
 
-<video controls src="VideoResults/videoShapesResult.mp4" title="Title"></video>
+2. **Video Results**
+https://drive.google.com/file/d/1hw4VTfqUUrV19fEh2H8PjQM6SjNH5Dof/view?usp=sharing
+
 
 3. **Background Agnostic Results**
-
-<video controls src="VideoResults/videoShapesResult.mp4" title="Title"></video>
+https://drive.google.com/file/d/12p1SYrzpz3mZCDxUmOWuSE7NMaYYBdcH/view?usp=sharing
 
 4. **Development Discussion**
-
-(label)https://docs.google.com/presentation/d/1GYJreKhcHUseBizNF0r581U3tSnnfnh828g7DOM6Q5M/edit?usp=sharing
+https://docs.google.com/presentation/d/1GYJreKhcHUseBizNF0r581U3tSnnfnh828g7DOM6Q5M/edit?usp=sharing
